@@ -7,10 +7,12 @@ documents, intelligently chunks them, enriches them using an LLM
 **Chroma vector database** for downstream RAG applications.
 
 The pipeline is designed for **high-quality document understanding**,
-including: - Text extraction\
-- Table structure preservation\
-- Image extraction and AI-based interpretation\
-- Search-optimized chunk generation\
+including: 
+
+- Text extraction
+- Table structure preservation
+- Image extraction and AI-based interpretation
+- Search-optimized chunk generation
 - Persistent vector storage
 
 ------------------------------------------------------------------------
